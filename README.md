@@ -3,7 +3,7 @@ Weather App
 
 Explore Weather Conditions with Luk Weather
 Use the App Live
-Experience the app firsthand at https://luk-weather.onrender.com/.
+Experience the app firsthand at https://lukweather.onrender.com/.
 
 How to Run the App
 1. Open the project folder in Visual Studio Code.
